@@ -1,0 +1,1 @@
+package com.bilgeadam.lesson033.dependencyinversion.databaselogger.cozum;
